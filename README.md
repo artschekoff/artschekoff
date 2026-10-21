@@ -4,6 +4,10 @@
 - 💬 Nine years across .NET, PHP, React, and security before this
 - 📫 How to reach me: [roxl.net](https://roxl.net) · therawlex@gmail.com · [LinkedIn](https://linkedin.com/in/artschekoff)
 
+### 🛠 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=go,rust,solidity,php,dotnet,cs,js,ts,react,docker,git,linux,postgres&theme=dark)](https://skillicons.dev)
+
 ### 🔥 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=artschekoff&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
